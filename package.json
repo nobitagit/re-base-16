@@ -1,0 +1,22 @@
+{
+    "name": "re-base16-eighties-dark--babel-",
+    "displayName": "Re-Base16 Eighties Dark (Babel)",
+    "description": "Dark, minimal color theme",
+    "version": "0.0.1",
+    "publisher": "Aurelio Ogliari",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Re-Base16 Eighties Dark (Babel)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Re-Base16 Eighties Dark (Babel)-color-theme.json"
+            }
+        ]
+    }
+}
