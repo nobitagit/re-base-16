@@ -18,5 +18,6 @@
                 "path": "./themes/Re-Base16 Eighties Dark (Babel)-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }
